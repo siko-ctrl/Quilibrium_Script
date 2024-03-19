@@ -37,8 +37,7 @@ cd ~/.config
 2. Backup Keys and Config Files
 Copy the keys.yml and config.yml files to a safe location, such as your desktop:
 
-bash
-
 cp keys.yml config.yml ~/Desktop
+This puts your keys and config on /Desktop so you can backup them later
 Note
 Ensure that you have administrative privileges to run the script and that it has executable permissions. This script automates various setup tasks required for configuring a Quilibrium node, simplifying the process for new users.
